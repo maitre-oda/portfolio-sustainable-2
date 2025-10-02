@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+.venv/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data outputs
+*.csv
+*.parquet
+*.h5
+
+# Reports
+reports/*.html
+reports/*.pdf
+
+# Streamlit
+.streamlit/
+
+# macOS
+.DS_Store
